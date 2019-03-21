@@ -45,7 +45,6 @@ function buildCharts(sample) {
     };
 
 var data = [trace1];
-console.log("glubglub")
 var layout = {
   xaxis: { title: "OTU ID"},
 };
